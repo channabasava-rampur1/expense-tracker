@@ -1,0 +1,22 @@
+.container {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.app-card {
+  background: white;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.monthly-total {
+  font-size: 20px;
+  font-weight: bold;
+  color: #2e7d32;
+  margin-top: 20px;
+}
